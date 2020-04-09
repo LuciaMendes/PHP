@@ -48,7 +48,7 @@ $num=6;
 
     }
 
-echo "Hello world";
+    echo "hello world";
 
 
     
