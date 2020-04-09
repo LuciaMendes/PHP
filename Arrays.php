@@ -48,6 +48,8 @@
 
 echo $cars[1][2];
 
+$animals=array("monkey","lion","fox");
+
 
 
 
