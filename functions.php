@@ -65,6 +65,7 @@
 
   echo "Value :$myNum <br>";
 
+  echo "Funçoes em PHP";
 
 
 
