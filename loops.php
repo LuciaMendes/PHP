@@ -52,12 +52,13 @@ foreach($people as $person){
     echo '<br>';
 } */
 
-
 $people=array('Brad'=>'brad@gmail.com','Jose'=>'jose@gmail.com','Jeremy'=>'jermy@gmail.com');
 
 foreach($people as $person=>$email){
     
     echo $person. ': '.$email;
     echo '<br>';  
-    
 } 
+
+echo "out";
+
